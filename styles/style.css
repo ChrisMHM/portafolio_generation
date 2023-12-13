@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Roboto:wght@100;400&display=swap');
+
+* {
+    /* border: 1px solid black; */
+    margin: 0;
+    /* font-family: 'Mooli', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+img {
+    width: 20vw;
+}
